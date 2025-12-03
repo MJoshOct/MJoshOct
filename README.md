@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
+I am a CS undergraduate my current skills are in software & web development and audio-visual projects using C, Python, Java, and shell scripting on Linux.
 
-<!--
-**MJoshOct/MJoshOct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- Programming Languages: C, Java, Python
+- Platforms: Fedora, Windows, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- Trading/Listing & Forum platform using python 
+- Multi-threaded socket programming server in C
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+

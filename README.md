@@ -11,7 +11,3 @@ I am a CS undergraduate with current skills in software & web development and au
 - Trading/Listing & Forum platform using python 
 - Multi-threaded socket programming server in C
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-

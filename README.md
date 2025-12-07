@@ -10,4 +10,5 @@ I am a CS undergraduate with current skills in software & web development and au
 
 - Trading/Listing & Forum platform using python 
 - Multi-threaded socket programming server in C
+- Working..
 

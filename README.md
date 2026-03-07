@@ -1,5 +1,5 @@
 # About Me
-I am a CS undergraduate with current skills in software & web development and audio-visual projects using C, Python, Java, and shell scripting on Linux.
+A CS undergraduate student with current skills in software & web development with projects using C, Python, Java, database and shell scripting on Linux.
 
 ## Skills
 

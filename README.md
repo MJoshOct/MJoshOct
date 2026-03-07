@@ -4,7 +4,7 @@ I am a CS undergraduate with current skills in software & web development and au
 ## Skills
 
 - Programming Languages: C, Java, Python , MySQL
-- Platforms: Fedora, Windows, Linux
+- Platforms: Windows, Linux/Fedora
 
 ## Current Projects
 

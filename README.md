@@ -10,5 +10,5 @@ A CS undergraduate student with current skills in software & web development wit
 
 - Trading/Listing & Forum platform using python 
 - Multi-threaded socket programming server in C
-- Iomt fog-edge based low latency & scalable cloud devices 
+- Iomt hybrid fog-edge based designed devices show low latency & scalablility  
 - In Progress...

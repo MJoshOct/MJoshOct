@@ -10,4 +10,3 @@ Current skills in software & web development with projects using C, Python, Java
 
 - Trading/Listing & Forum platform using python 
 - Iomt hybrid fog-edge based designed devices show low latency & scalablility  
-- In Progress...

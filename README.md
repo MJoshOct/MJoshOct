@@ -1,10 +1,10 @@
 # About Me
-A CS undergraduate student with current skills in software & web development with projects using C, Python, Java, database and shell scripting on Linux.
+Current skills in software & web development with projects using C, Python, Java, database and shell scripting on Linux.
 
 ## Skills
 
 - Programming Languages: C, Java, Python , MySQL
-- Platforms: Windows, Linux/Fedora
+- Platforms: Linux, Windows 
 
 ## Current Projects
 
